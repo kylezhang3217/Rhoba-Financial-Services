@@ -4,4 +4,6 @@ In this internship, I helped streamline Rhoba's financial analysis process by wr
 
 More specifically, the script gathers the requested time period's financial data from the main database, generates a P&L statement, and computes KPIs that Rhoba is most familiar with. 
 
-"getRH
+"getRhProfit.r" is the source code for the R script. 
+
+"getRhProfit_Examples" is a pdf showing examples of the script in action.
