@@ -1,7 +1,7 @@
 # Rhoba-Financial-Services
 
-During my internship period, I helped streamline Rhoba's financial analysis process. 
+In this internship, I helped streamline Rhoba's financial analysis process by writing an R script that automates P&L statement creation. 
 
-Enclosed is my original source code and screenshots of the program in action. 
+More specifically, the script gathers the requested time period's financial data from the main database, generates a P&L statement, and computes KPIs that Rhoba is most familiar with. 
 
-The program gathers the requested time period's financial data from the main database, computes KPIs, and generates a P&L statement. 
+"getRH
